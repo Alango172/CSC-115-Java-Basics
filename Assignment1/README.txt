@@ -1,1 +1,1 @@
-This assignment is about basic syntax practive of JAVA language.
+This assignment is about practicing basic syntax of JAVA language.
